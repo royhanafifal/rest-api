@@ -1,0 +1,18 @@
+    {
+        "konveksi": [{
+                "nama": "Roy Garment",
+                "produksi": true,
+                "hp": "96563165"
+            },
+            {
+                "nama": "Kepoo.in Konveksi",
+                "produksi": false,
+                "hp": "96563165"
+            },
+            {
+                "nama": "Han Garment",
+                "produksi": true,
+                "hp": "96563165"
+            }
+        ]
+    }
